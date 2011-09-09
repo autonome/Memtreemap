@@ -1,0 +1,9 @@
+{
+    "name": "memtreemap",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+    "author": "Dietrich Ayala",
+    "version": "1.0",
+    "fullName": "about:memory Treemap Visualization",
+    "id": "jid1-h1AIzOW6tYmSfQ",
+    "description": "View how loaded pages and Firefox internals are using your memory."
+}
